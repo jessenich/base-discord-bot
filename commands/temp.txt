@@ -1,0 +1,15 @@
+const Discord = require("discord.js")
+const data = require('../data.js')
+module.exports.run = async(client, receivedMessage) => {
+
+}
+module.exports.config = {
+    name: "",
+    aliases: [],
+}
+module.exports.help = {
+    description: "",
+    usage: "`",
+    user: ""
+
+}

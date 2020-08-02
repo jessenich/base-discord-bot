@@ -1,0 +1,31 @@
+{
+    "name": "KPDEV",
+    "version": "1.0.0",
+    "dependencies": {
+        "discord.js": {
+            "version": "11.5.1",
+            "dependencies": {
+                "long": {
+                    "version": "4.0.0"
+                },
+                "prism-media": {
+                    "version": "0.0.3"
+                },
+                "snekfetch": {
+                    "version": "3.6.4"
+                },
+                "tweetnacl": {
+                    "version": "1.0.3"
+                },
+                "ws": {
+                    "version": "6.2.1",
+                    "dependencies": {
+                        "async-limiter": {
+                            "version": "1.0.1"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
