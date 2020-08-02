@@ -1,0 +1,20 @@
+{
+    "name": "kpdevbasebot",
+    "version": "1.0.0",
+    "description": "A Base Discord Bot",
+    "main": "main.js",
+    "scripts": {
+        "bot": "node main.js"
+    },
+    "keywords": [
+        "Discord",
+        "Bot",
+        "Multifunctional"
+    ],
+    "author": "jessenich",
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/uws": "^10.149.0",
+        "discord.js": "^11.5.1"
+    }
+}
