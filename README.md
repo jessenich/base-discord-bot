@@ -1,2 +1,1 @@
-# base-discord-bot
-A starter discord bot
+A starter discord bot that @mmizer never even used.
